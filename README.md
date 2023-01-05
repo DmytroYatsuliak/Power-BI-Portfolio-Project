@@ -35,4 +35,4 @@ Average delivery time.
 
 Both dashboards were created using Power BI and can be found in attached files. 
 
-![Store Shipment DataSet](https://user-images.githubusercontent.com/121992590/210730619-142660fb-c968-461b-a259-bca50efe5ebf.jpg)
+
