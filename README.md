@@ -15,6 +15,8 @@ What is the most profitable region?
 
 Order volumes and profits distributed by the city.
 
+
+
 Viz #2 (Dashboard2) is a more shipment-focused dashboard. Data set information includes order and ship dates also based on geographical information and split into categories. 
 
 This visualisation answers the next business questions:
