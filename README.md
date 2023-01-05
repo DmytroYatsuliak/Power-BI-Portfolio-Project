@@ -15,7 +15,8 @@ What is the most profitable region?
 
 Order volumes and profits distributed by the city.
 
-![General Store Vis](https://user-images.githubusercontent.com/121992590/210730135-3d8a0cfb-aebb-4491-ad1f-eb0da7933051.jpg)
+![General Store Vis](https://user-images.githubusercontent.com/121992590/210893094-775a9f51-833c-4f9f-b310-c47cf8736801.jpg)
+
 
 
 
