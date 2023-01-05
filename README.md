@@ -1,4 +1,4 @@
-# Dmytro-Yatsuliak
+# Power BI resume Project
 Power BI Resume Project
 Mentioned resume project includes two visualizations based on two datasets.
 
