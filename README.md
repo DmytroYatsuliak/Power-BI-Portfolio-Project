@@ -15,6 +15,8 @@ What is the most profitable region?
 
 Order volumes and profits distributed by the city.
 
+![General Store Vis](https://user-images.githubusercontent.com/121992590/210730135-3d8a0cfb-aebb-4491-ad1f-eb0da7933051.jpg)
+
 
 
 Viz #2 (Dashboard2) is a more shipment-focused dashboard. Data set information includes order and ship dates also based on geographical information and split into categories. 
