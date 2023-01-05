@@ -33,6 +33,9 @@ Relations between order date and quantity? (holidays, end of the year, end of qu
 
 Average delivery time. 
 
-Both dashboards were created using Power BI and can be found in attached files. 
+![Store Shipment DataSet](https://user-images.githubusercontent.com/121992590/210731361-389d546e-db89-45b1-a049-eb66bbc4adc8.jpg)
+
+
+Both dashboards were created using Power BI and can be found in attached files. Both visualizations are interactive. 
 
 
