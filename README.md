@@ -29,4 +29,4 @@ Relations between order date and quantity? (holidays, end of the year, end of qu
 
 Average delivery time. 
 
-Both dashboards created using Power BI and can be found in attached files. 
+Both dashboards were created using Power BI and can be found in attached files. 
