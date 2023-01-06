@@ -1,6 +1,5 @@
-# Power BI resume Project
-Power BI Resume Project
-Mentioned resume project includes two visualizations based on two datasets.
+# Power BI portfolio project
+
 
 Viz #1(Dashboard1) was created using the General SuperStore dataset that consists of information about Ship Mode, Sales and profits based on geographical information. Split into categories. 
 Mentioned visualization and notes answering the following business questions:
