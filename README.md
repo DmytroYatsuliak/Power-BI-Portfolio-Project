@@ -1,4 +1,5 @@
 # Power BI portfolio project
+Both dashboards were created using Power BI and can be found in attached files. Both visualizations are interactive. 
 
 
 Viz #1(Dashboard1) was created using the General SuperStore dataset that consists of information about Ship Mode, Sales and profits based on geographical information. Split into categories. 
@@ -13,6 +14,7 @@ What is the preferred ship mode?
 What is the most profitable region?
 
 Order volumes and profits distributed by the city.
+Click on picture for zoom or download file above.
 
 ![General Store Vis](https://user-images.githubusercontent.com/121992590/210893094-775a9f51-833c-4f9f-b310-c47cf8736801.jpg)
 
